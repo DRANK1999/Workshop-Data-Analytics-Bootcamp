@@ -29,5 +29,3 @@ Datasets used in these projects are either publicly available or synthetically g
 
 ## License
 This repository is for educational purposes. Feel free to use and modify the code and files as needed.
-
-This repository is for educational purposes. Feel free to use and modify the code as needed.
