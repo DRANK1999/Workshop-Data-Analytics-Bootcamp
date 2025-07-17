@@ -1,31 +1,33 @@
-Data Analysis Projects with Python
-Overview
-This repository contains a collection of data analysis projects completed as part of my Data Analysis course. Each project demonstrates practical use of Python libraries and techniques for data cleaning, exploration, visualization, and modeling.
+# Data Analysis Projects with Python and Excel
 
-Tools and Libraries
-Python
+## Overview
+This repository contains a collection of data analysis projects completed as part of my Data Analysis course. Each project demonstrates practical use of Python and Excel for data cleaning, exploration, visualization, and modeling.
 
-Anaconda
+## Tools and Libraries
 
-Pandas
+### Python
+- Anaconda  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebooks  
 
-NumPy
+### Excel
+- Pivot Tables  
+- Formulas and Functions  
+- Data Cleaning Techniques  
+- Dashboard Creation  
 
-Matplotlib
+## How to Use
+1. Clone the repository.  
+2. Navigate to the project folder you want to explore.  
+3. Open and run the Jupyter Notebooks or Excel files to reproduce the analysis.
 
-Seaborn
-
-Jupyter Notebooks
-
-How to Use
-Clone the repository:
-
-Navigate to the project folder you want to explore.
-
-Run the Jupyter Notebooks or Python scripts to reproduce the analysis.
-
-Data Sources
+## Data Sources
 Datasets used in these projects are either publicly available or synthetically generated. Links and references are provided within each project folder.
 
-License
+## License
+This repository is for educational purposes. Feel free to use and modify the code and files as needed.
+
 This repository is for educational purposes. Feel free to use and modify the code as needed.
